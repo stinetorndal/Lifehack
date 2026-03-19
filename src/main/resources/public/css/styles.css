@@ -1,0 +1,19 @@
+/* Stylesheet for the application */
+
+h1 {
+    color: #F96;
+    font-family: inherit;
+    font-size: 3rem;
+    font-weight: bold;
+}
+h2 {
+    color: #033;
+}
+h3 {
+    color: #366;
+}
+body {
+    text-align: center;
+    font-family: 'Nunito', sans-serif;
+    background-color: navajowhite;
+}
